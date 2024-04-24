@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle-estoque", "Controle-estoque\Controle-estoque.csproj", "{77D5CCDC-B030-416F-B1A2-79E83B320F2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle-Estoque", "Controle-estoque\Controle-Estoque.csproj", "{77D5CCDC-B030-416F-B1A2-79E83B320F2A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dados-Retangulo", "Dados-Retangulo\Dados-Retangulo.csproj", "{E6979F93-F0F4-4223-869D-3616363EE7FD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo-Salario", "Calculo-Salario\Calculo-Salario.csproj", "{2564DD7E-A714-4279-9560-A778C7956AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo-Nota-Final", "Calculo-Nota-Final\Calculo-Nota-Final.csproj", "{F2BD2117-CA32-4F65-A4BA-091D5E1CCE99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{2564DD7E-A714-4279-9560-A778C7956AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2564DD7E-A714-4279-9560-A778C7956AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2564DD7E-A714-4279-9560-A778C7956AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BD2117-CA32-4F65-A4BA-091D5E1CCE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BD2117-CA32-4F65-A4BA-091D5E1CCE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BD2117-CA32-4F65-A4BA-091D5E1CCE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BD2117-CA32-4F65-A4BA-091D5E1CCE99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
