@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle-Estoque", "Controle-estoque\Controle-Estoque.csproj", "{77D5CCDC-B030-416F-B1A2-79E83B320F2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controle-Estoque", "Controle-estoque\Controle-Estoque.csproj", "{77D5CCDC-B030-416F-B1A2-79E83B320F2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dados-Retangulo", "Dados-Retangulo\Dados-Retangulo.csproj", "{E6979F93-F0F4-4223-869D-3616363EE7FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dados-Retangulo", "Dados-Retangulo\Dados-Retangulo.csproj", "{E6979F93-F0F4-4223-869D-3616363EE7FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo-Salario", "Calculo-Salario\Calculo-Salario.csproj", "{2564DD7E-A714-4279-9560-A778C7956AC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculo-Salario", "Calculo-Salario\Calculo-Salario.csproj", "{2564DD7E-A714-4279-9560-A778C7956AC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo-Nota-Final", "Calculo-Nota-Final\Calculo-Nota-Final.csproj", "{F2BD2117-CA32-4F65-A4BA-091D5E1CCE99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculo-Nota-Final", "Calculo-Nota-Final\Calculo-Nota-Final.csproj", "{F2BD2117-CA32-4F65-A4BA-091D5E1CCE99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor-De-Moedas-MembrosEstaticos", "Conversor-De-Moedas-MembrosEstaticos\Conversor-De-Moedas-MembrosEstaticos.csproj", "{6F2E889E-D540-4870-9F6E-5D8C3BC586AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conversor-De-Moedas-MembrosEstaticos", "Conversor-De-Moedas-MembrosEstaticos\Conversor-De-Moedas-MembrosEstaticos.csproj", "{6F2E889E-D540-4870-9F6E-5D8C3BC586AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestao-Conta-Bancaria", "Gestao-Conta-Bancaria\Gestao-Conta-Bancaria.csproj", "{38F68B46-32C0-41A0-B364-F4137F522A1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6F2E889E-D540-4870-9F6E-5D8C3BC586AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F2E889E-D540-4870-9F6E-5D8C3BC586AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F2E889E-D540-4870-9F6E-5D8C3BC586AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F68B46-32C0-41A0-B364-F4137F522A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F68B46-32C0-41A0-B364-F4137F522A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F68B46-32C0-41A0-B364-F4137F522A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F68B46-32C0-41A0-B364-F4137F522A1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
